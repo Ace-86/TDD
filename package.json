@@ -1,0 +1,25 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ace-86/TDD.git"
+  },
+  "author": "Aaron Griffin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ace-86/TDD/issues"
+  },
+  "homepage": "https://github.com/Ace-86/TDD#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
