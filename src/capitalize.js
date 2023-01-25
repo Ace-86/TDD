@@ -3,3 +3,4 @@ function capitalizeLetter(string) {
 }
 
 console.log(capitalizeLetter('foo'));
+// export { capitalizeLetter }
